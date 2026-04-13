@@ -18,7 +18,8 @@ Devin AI Agent 的完整使用指南和最佳实践：
 
 | 文件 | 说明 |
 |------|------|
-| `DEVIN_MANAGED_DEVINS_COORDINATOR_WORKER_GUIDE_2026.md` | ⭐ **Managed Devins 完全指南** - Coordinator-Worker 架构与并行 Agent 编排 |
+| `GITHUB_COPILOT_SKILLS_SETUP_GUIDE_2026.md` | ⭐ **GitHub Copilot Skills 完全指南** - 项目级与全局 Skills 配置 |
+| `DEVIN_MANAGED_DEVINS_COORDINATOR_WORKER_GUIDE_2026.md` | Managed Devins 完全指南 - Coordinator-Worker 架构与并行 Agent 编排 |
 | `DEVIN_SKILLS_STEP_BY_STEP_GUIDE_2026.md` | Skills 完全指南 - 从零开始创建和使用 Devin Skills |
 | `DEVIN_MASTER_GUIDE_2026.md` | Devin 完全指南 - 综合入门教程 |
 | `DEVIN_COMPLETE_GUIDE_2026.md` | Devin 完整功能指南 |
