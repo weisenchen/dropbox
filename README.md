@@ -18,7 +18,8 @@ Devin AI Agent 的完整使用指南和最佳实践：
 
 | 文件 | 说明 |
 |------|------|
-| `DEVIN_ORG_ADMIN_COMPLETE_GUIDE_2026.md` | ⭐ **Org Admin 完全指南** - 企业级组织管理与安全治理 |
+| `DEVIN_TEAM_ORG_ADMIN_OPERATIONS_GUIDE_2026.md` | ⭐ **Team Admin 运营指南** - 团队级日常运营与 ACU 优化（不含基础设施/权限） |
+| `DEVIN_ORG_ADMIN_COMPLETE_GUIDE_2026.md` | Org Admin 完全指南 - 企业级组织管理与安全治理 |
 | `GITHUB_COPILOT_SKILLS_SETUP_GUIDE_2026.md` | GitHub Copilot Skills 完全指南 - 项目级与全局 Skills 配置 |
 | `DEVIN_MANAGED_DEVINS_COORDINATOR_WORKER_GUIDE_2026.md` | Managed Devins 完全指南 - Coordinator-Worker 架构与并行 Agent 编排 |
 | `DEVIN_SKILLS_STEP_BY_STEP_GUIDE_2026.md` | Skills 完全指南 - 从零开始创建和使用 Devin Skills |
