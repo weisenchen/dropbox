@@ -670,3 +670,117 @@ Codex CLI：
 **最后更新：** 2026 年 4 月 20 日  
 **版本：** 1.0  
 **来源：** 官方文档、第三方基准、生产部署案例研究
+
+---
+
+## 🏆 2026 Elite Team Strategy: Dual-Agent Workflow
+
+### Industry Trend
+
+```
+Most elite teams in 2026 are adopting a "Dual-Agent" strategy:
+- Use AGENTS.md (emerging cross-tool standard under Linux Foundation's Agentic AI Foundation)
+- Let both tools coexist in the same repo (CLAUDE.md and AGENTS.md are independent)
+- Codex for rapid script generation and autonomous implementation
+- Claude for architectural reviews and complex refactoring
+```
+
+### AGENTS.md Standard Template
+
+```markdown
+# AGENTS.md - Cross-Tool Agent Instructions
+
+## Project Overview
+This project uses AI coding agents for development assistance.
+
+## Codex CLI Use Cases
+- Rapid prototyping and script generation
+- Bash commands and deployment scripts
+- Unit test generation
+- Security-sensitive code review (kernel sandbox)
+
+## Claude Code Use Cases
+- Architecture design and refactoring
+- Complex business logic implementation
+- Code review and documentation
+- Organizational standard enforcement
+
+## Workflow Example
+# Terminal 1: Codex generates
+codex "Generate rate limiting script with Redis backing"
+
+# Terminal 2: Claude reviews
+claude "Review the generated script for security and best practices"
+```
+
+### Dual-Terminal Workflow
+
+```bash
+# Terminal 1: Codex generates implementation
+codex "Implement the new authentication module with JWT"
+
+# Terminal 2: Claude reviews diff
+claude "Review staged changes in git diff --cached. 
+        Check for security issues, edge cases, and missed error handling"
+
+# Result:
+# - Codex speed and autonomy for generation
+# - Claude deep reasoning for review
+# - Both CLAUDE.md and AGENTS.md coexist without conflicts
+```
+
+### Benefits
+
+```
+✅ Best of both worlds (speed + depth)
+✅ Risk mitigation (different failure modes complement)
+✅ Cost optimization (Codex for simple tasks)
+✅ Security enhancement (Codex sandbox for untrusted code)
+✅ Vendor lock-in mitigation (not dependent on single vendor)
+✅ GitHub integration: ~135K commits/day (~4% of all public commits)
+```
+
+### Pro-Tip for Architects
+
+```
+The most productive developers in 2026 do not pick sides.
+They run both tools in a complementary loop:
+
+1. Use Codex for:
+   - Initial implementation
+   - Quick iterations
+   - Bash/deployment tasks
+   - Untrusted code review
+
+2. Use Claude for:
+   - Architecture decisions
+   - Security audits
+   - Complex refactors
+   - Documentation
+
+3. Configuration:
+   - AGENTS.md for Codex (open standard)
+   - CLAUDE.md for Claude (Anthropic standard)
+   - Both files coexist peacefully
+   - No conflicts, no interference
+```
+
+### Real-World Adoption
+
+```
+Based on GitHub stats (Feb 28, 2026):
+- Claude Code: 71,500 stars, 51 contributors, 5.2M VS Code installs
+- Codex CLI: 62,365 stars, 365 contributors, 4.9M VS Code installs
+- Combined: ~10M+ installs, ~4% of all public GitHub commits
+
+VS Code ratings:
+- Claude Code: 4.0/5 (higher satisfaction despite tighter limits)
+- Codex: 3.4/5 (faster but more variable)
+
+Recommendation: Use both, let each tool shine where it excels.
+```
+
+---
+
+**Report Version:** 1.1 (Updated with Dual-Agent Strategy)  
+**Last Updated:** 2026-04-20
