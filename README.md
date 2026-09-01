@@ -8,6 +8,7 @@
 dropbox/
 ├── Devin/              # Devin AI Agent 相关文档
 ├── AI-Builders/        # AI Builders Digest 摘要
+├── AI-Skills/          # AI Skills 市场与 Agent 技能研究报告
 └── README.md
 ```
 
@@ -30,6 +31,14 @@ Devin AI Agent 的完整使用指南和最佳实践：
 | `DEVIN_MULTI_AGENT_ORCHESTRATION_GUIDE.md` | 多 Agent 编排指南 |
 | `DEVIN_ORG_MANAGEMENT_REPORT.md` | 组织管理与协作报告 |
 | `DEVIN_PLAYBOOK_SKILLS_GUIDE_EN.md` | Devin Playbook 与 Skills 指南（英文版） |
+
+### AI-Skills/
+AI Skills 市场与 Agent 技能研究报告（2026）：
+
+| 文件 | 说明 |
+|------|------|
+| `AI_SKILLS_MARKETPLACE_LEADERBOARD_REPORT_2026.md` | ⭐ AI Skills 市场排行榜报告 - skills.sh 全时段 Top 30 + 发行商格局 |
+| `GITHUB_COPILOT_MAXIMUM_EFFECTIVENESS_GUIDE_2026.md` | ⭐ GitHub Copilot 高效能使用指南 - 方案/模型/工具选择/客制化/工作流 |
 
 ### AI-Builders/
 每日 AI 领域建设者动态摘要（自动更新）：
