@@ -41,6 +41,7 @@ AI Skills 市场与 Agent 技能研究报告（2026）：
 | `AI_SKILLS_MARKETPLACE_LEADERBOARD_REPORT_2026_EN.md` | ⭐ AI Skills Marketplace Leaderboard Report (English) - Top 30 + publisher landscape |
 | `GITHUB_COPILOT_MAXIMUM_EFFECTIVENESS_GUIDE_2026.md` | ⭐ GitHub Copilot 高效能使用指南 - 方案/模型/工具选择/客制化/工作流 |
 | `GITHUB_COPILOT_MAXIMUM_EFFECTIVENESS_GUIDE_2026_EN.md` | ⭐ GitHub Copilot Maximum-Effectiveness Guide (English) - plans/models/tools/workflows |
+| `MATTPOCOCK_SKILLS_EVALUATION_REPORT_2026.md` | ⭐ mattpocock/skills 评估报告 (English) - 37 skills × 现有 Hermes skills 关系与安装建议 |
 
 ### AI-Builders/
 每日 AI 领域建设者动态摘要（自动更新）：
